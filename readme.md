@@ -1,6 +1,4 @@
-Here's the complete README.md content you can copy directly into your file:
 
-```
 # Audio Similarity Search API
 
 A Flask API that finds audio files semantically similar to text queries using the CLAP model and Qdrant vector database.
